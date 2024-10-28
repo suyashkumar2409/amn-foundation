@@ -1,6 +1,6 @@
 # amn-foundation
 
-[AMN](amnfoundation.org) is a non-profit, aimed at providing free education and mentorship to students in need. 
+[AMN](https://www.amnfoundation.org) is a non-profit, aimed at providing free education and mentorship to students in need. 
 
 Current TODOs: 
 
